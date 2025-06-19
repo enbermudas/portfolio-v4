@@ -18,7 +18,7 @@ export const projects: Project[] = [
       "This portfolio! I wanted to share my expertise in web design with all of you in a single place.",
     image: "/portfolio-screenshot.png",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Next.js"],
-    liveUrl: "http://localhost:3000/#projects",
+    liveUrl: "https://portfolio-v4-git-main-enrique-bermdezs-projects.vercel.app/",
     githubUrl: "https://github.com/enbermudas/portfolio-v4",
     featured: true,
   },
